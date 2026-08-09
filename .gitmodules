@@ -27,4 +27,4 @@
 	branch = release/v8.2
 [submodule "keyboards/sofle_choc/keymaps/mattyforth"]
 	path = keyboards/sofle_choc/keymaps/mattyforth
-	url = https://github.com/mattyforth/sofle_firmware
+    url = git@github.com:mattyforth/sofle_firmware.git
